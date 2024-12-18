@@ -16,7 +16,7 @@ Monthly/Quarterly Trends: Charts showing sales trends over time for identifying 
 Customer Metrics: Insights into customer acquisition, retention, and average purchase value.
 Requirements:
 Microsoft Excel 2016 or later
-Basic knowledge of Excel functions, charts, and pivot tables
+Basic knowledge of Excel functions,data cleaning, data formatting,visualization charts, and pivot tables
 Sample Files:
 The repository includes:
 
